@@ -10,17 +10,22 @@ La nota final de l'assignatura es calcularà de la forma: NF=0'7NL+0'3NT
 
 ## Continguts
 1. Fonaments de la imatge digital 
-> - La imatge digital, propietats i caracteristiques. Discretització i quantificació. Espais de color.
+> - La imatge digital, propietats i caracteristiques. 
+> - Discretització i quantificació. 
+> - Espais de color.
 2. Processat digital d'imatges 
 > - Transformacions de nivell de gris.
 > - Transformacions geométriques.
-> - Operadors linials. Convolució. Realçat i suavitzat de la imatge.
+> - Operadors linials. 
+> - Convolució. 
+> - Realçat i suavitzat de la imatge.
 > - Detecció de contorns.
-> - Operadors no linials. Filtres morfologics.
+> - Operadors no linials. 
+> - Filtres morfologics.
 > - Espai d'escala
 3. Segmentació d'imatges. 
 > - Binarització.
-> - Técniques basades en regions: region growing, split & merge, watershed, k-means, normalized cuts....
+> - Tècniques basades en regions: region growing, split & merge, watershed, k-means, normalized cuts....
 > - Tecniques basades en contorns: LoG, DoG, Canny...
 > - Analisi de connectivitat i etiquetat, graf d'adjacència.
 4. Descriptors de formes 
@@ -28,17 +33,24 @@ La nota final de l'assignatura es calcularà de la forma: NF=0'7NL+0'3NT
 > - Descriptors basats en regions
 > - Concepte d'invariancia a traslació, rotació, iluminació, transformacions afins i/o escala.
 5. Reconeixement 
-> - Conceptes bàsics.Classificació mitjançant vectors descriptors.
+> - Conceptes bàsics.
+> - Classificació mitjançant vectors descriptors.
 > - Construcció de les classes (Clustering, aprenentatge ...)
 > - Funcions distància.
 > - Tipus de classificadors: Bayes, Mahalanobis, Fisher, K-nearest,...
 > - Avaluació d'una classificació.
-> - Anàlisi de components principals. Reducció de la dimensionalitat.
-> - Identificació d'objectes. Reconeixement de categories.
+> - Anàlisi de components principals. 
+> - Reducció de la dimensionalitat.
+> - Identificació d'objectes. 
+> - Reconeixement de categories.
 6. Característiques locals 
 > - Descriptors basats en histogrames: histogrames de color, HOGs.
 > - Transformada de Hough.
 > - Detectors i descriptors de punts d'interès: Harris, SIFT.
-> - Característiques Haar. L'algorisme de Viola-Jones per a detectar cares.
+> - Característiques Haar. 
+> - L'algorisme de Viola-Jones per a detectar cares.
 7. Detecció i anàlisi de moviment 
-> - Imatge diferencia. Fluxe òptic. Correspondencia de punts. Seguiment d'objectes.
+> - Imatge diferencia. 
+> - Fluxe òptic. 
+> - Correspondencia de punts. 
+> - Seguiment d'objectes.
